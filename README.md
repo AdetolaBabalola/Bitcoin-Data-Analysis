@@ -4,6 +4,9 @@
 **Introduction:**
 This report provides an analysis of Bitcoin data using insights derived from a Power BI dashboard. The dashboard visualizes several key metrics such as yearly and monthly variations in Bitcoin volume, the weighted price of Bitcoin, and how these trends have evolved over time. The aim is to understand the dynamics of Bitcoin’s performance in terms of price and transaction volume across various years and months.
 
+![PROJECT 2_page-0001](https://github.com/user-attachments/assets/8dc1d12a-6b1d-4adb-9fd1-bbcda3a47717)
+
+
 ---
 
 ### 1. **Yearly Variation of Bitcoin Volume (Currency):**
